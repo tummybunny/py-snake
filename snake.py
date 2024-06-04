@@ -1,5 +1,5 @@
 """
-Simple Snake game by Husci - created when learning python
+Simple Snake game by Alexander Yanuar Koentjara - created when learning python
 """
 import pygame
 import random
